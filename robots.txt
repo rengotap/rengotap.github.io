@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rengotap.github.io/sitemap.xml

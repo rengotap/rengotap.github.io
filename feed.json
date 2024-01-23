@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Personal Website",
+    "description": "",
+    "home_page_url": "https://rengotap.github.io",
+    "feed_url": "https://rengotap.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://rengotap.github.io/media/website/5bf267a0fd383e44e980b4a9237a7d6b.png",
+    "author": {
+        "name": "rengotap"
+    },
+    "items": [
+        {
+            "id": "https://rengotap.github.io/rengotap.html",
+            "url": "https://rengotap.github.io/rengotap.html",
+            "title": "RENGOTAP",
+            "summary": "Test post",
+            "content_html": "<p>Test post</p>",
+            "author": {
+                "name": "rengotap"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-23T13:50:32-05:00",
+            "date_modified": "2024-01-23T13:50:32-05:00"
+        }
+    ]
+}
