@@ -1,21 +1,168 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Personal Website</title>
+    <title>rengotap</title>
     <link href="https://rengotap.github.io/feed.xml" rel="self" />
     <link href="https://rengotap.github.io" />
-    <updated>2024-01-23T13:50:32-05:00</updated>
+    <updated>2024-01-23T17:24:01-05:00</updated>
     <author>
         <name>rengotap</name>
     </author>
     <id>https://rengotap.github.io</id>
 
     <entry>
+        <title>GLD Leadership</title>
+        <author>
+            <name>rengotap</name>
+        </author>
+        <link href="https://rengotap.github.io/gld-leadership/"/>
+        <id>https://rengotap.github.io/gld-leadership/</id>
+            <category term="GLD"/>
+
+        <updated>2024-01-23T17:21:37-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Leadership. The Leadership section asks you to reflect on how what you have learned while at the University of South&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Leadership. The Leadership section asks you to reflect on how what you have learned while at the University of South Carolina can solve issues or problems that you may encounter in the
+future.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Key Insight #3</title>
+        <author>
+            <name>rengotap</name>
+        </author>
+        <link href="https://rengotap.github.io/key-insight-3/"/>
+        <id>https://rengotap.github.io/key-insight-3/</id>
+            <category term="GLD"/>
+
+        <updated>2024-01-23T17:21:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate how your within-the-classroom (WTC) and beyond-the-classroom (BTC)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate
+how your within-the-classroom (WTC) and beyond-the-classroom (BTC) experiences
+influenced one another in order to create a change in your professional or life practices. Key
+insights also analyze topics or issues in order to demonstrate your ability to think critically and
+see things from various perspectives.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Key Insight #2</title>
+        <author>
+            <name>rengotap</name>
+        </author>
+        <link href="https://rengotap.github.io/key-insight-2/"/>
+        <id>https://rengotap.github.io/key-insight-2/</id>
+            <category term="GLD"/>
+
+        <updated>2024-01-23T17:21:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate how your within-the-classroom (WTC) and beyond-the-classroom (BTC)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate
+how your within-the-classroom (WTC) and beyond-the-classroom (BTC) experiences
+influenced one another in order to create a change in your professional or life practices. Key
+insights also analyze topics or issues in order to demonstrate your ability to think critically and
+see things from various perspectives.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Key Insight #1</title>
+        <author>
+            <name>rengotap</name>
+        </author>
+        <link href="https://rengotap.github.io/key-insight-1/"/>
+        <id>https://rengotap.github.io/key-insight-1/</id>
+            <category term="GLD"/>
+
+        <updated>2024-01-23T17:21:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate how your within-the-classroom (WTC) and beyond-the-classroom (BTC)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate
+how your within-the-classroom (WTC) and beyond-the-classroom (BTC) experiences
+influenced one another in order to create a change in your professional or life practices. Key
+insights also analyze topics or issues in order to demonstrate your ability to think critically and
+see things from various perspectives.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My GLD</title>
+        <author>
+            <name>rengotap</name>
+        </author>
+        <link href="https://rengotap.github.io/my-gld/"/>
+        <id>https://rengotap.github.io/my-gld/</id>
+            <category term="GLD"/>
+
+        <updated>2024-01-23T17:24:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is where information about the GLD would go. About Me. The About Me page is designed to give you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is where information about the GLD would go.</p>
+<p>About Me. The About Me page is designed to give you space to introduce yourself, your GLD
+Pathway(s), your major(s), your professional goals, how your ePortfolio is organized and any
+other relevant information you may choose to share.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>rengotap</name>
+        </author>
+        <link href="https://rengotap.github.io/about-me/"/>
+        <id>https://rengotap.github.io/about-me/</id>
+
+        <updated>2024-01-23T15:40:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed venenatis mauris. Maecenas imperdiet orci ut felis consequat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>RENGOTAP</title>
         <author>
             <name>rengotap</name>
         </author>
-        <link href="https://rengotap.github.io/rengotap.html"/>
-        <id>https://rengotap.github.io/rengotap.html</id>
+        <link href="https://rengotap.github.io/rengotap/"/>
+        <id>https://rengotap.github.io/rengotap/</id>
 
         <updated>2024-01-23T13:50:32-05:00</updated>
             <summary>

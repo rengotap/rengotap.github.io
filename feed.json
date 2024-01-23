@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Personal Website",
+    "title": "rengotap",
     "description": "",
     "home_page_url": "https://rengotap.github.io",
     "feed_url": "https://rengotap.github.io/feed.json",
@@ -11,8 +11,97 @@
     },
     "items": [
         {
-            "id": "https://rengotap.github.io/rengotap.html",
-            "url": "https://rengotap.github.io/rengotap.html",
+            "id": "https://rengotap.github.io/gld-leadership/",
+            "url": "https://rengotap.github.io/gld-leadership/",
+            "title": "GLD Leadership",
+            "summary": "Leadership. The Leadership section asks you to reflect on how what you have learned while at the University of South&hellip;",
+            "content_html": "<p>Leadership. The Leadership section asks you to reflect on how what you have learned while at the University of South Carolina can solve issues or problems that you may encounter in the\nfuture.</p>\n",
+            "author": {
+                "name": "rengotap"
+            },
+            "tags": [
+                   "GLD"
+            ],
+            "date_published": "2024-01-23T15:48:45-05:00",
+            "date_modified": "2024-01-23T17:21:37-05:00"
+        },
+        {
+            "id": "https://rengotap.github.io/key-insight-3/",
+            "url": "https://rengotap.github.io/key-insight-3/",
+            "title": "Key Insight #3",
+            "summary": "Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate how your within-the-classroom (WTC) and beyond-the-classroom (BTC)&hellip;",
+            "content_html": "<p>Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate\nhow your within-the-classroom (WTC) and beyond-the-classroom (BTC) experiences\ninfluenced one another in order to create a change in your professional or life practices. Key\ninsights also analyze topics or issues in order to demonstrate your ability to think critically and\nsee things from various perspectives.</p>\n",
+            "author": {
+                "name": "rengotap"
+            },
+            "tags": [
+                   "GLD"
+            ],
+            "date_published": "2024-01-23T15:47:28-05:00",
+            "date_modified": "2024-01-23T17:21:29-05:00"
+        },
+        {
+            "id": "https://rengotap.github.io/key-insight-2/",
+            "url": "https://rengotap.github.io/key-insight-2/",
+            "title": "Key Insight #2",
+            "summary": "Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate how your within-the-classroom (WTC) and beyond-the-classroom (BTC)&hellip;",
+            "content_html": "<p>Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate\nhow your within-the-classroom (WTC) and beyond-the-classroom (BTC) experiences\ninfluenced one another in order to create a change in your professional or life practices. Key\ninsights also analyze topics or issues in order to demonstrate your ability to think critically and\nsee things from various perspectives.</p>\n",
+            "author": {
+                "name": "rengotap"
+            },
+            "tags": [
+                   "GLD"
+            ],
+            "date_published": "2024-01-23T15:46:41-05:00",
+            "date_modified": "2024-01-23T17:21:22-05:00"
+        },
+        {
+            "id": "https://rengotap.github.io/key-insight-1/",
+            "url": "https://rengotap.github.io/key-insight-1/",
+            "title": "Key Insight #1",
+            "summary": "Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate how your within-the-classroom (WTC) and beyond-the-classroom (BTC)&hellip;",
+            "content_html": "<p>Key Insights. The GLD ePortfolio requires three (3)* major learning statements that articulate\nhow your within-the-classroom (WTC) and beyond-the-classroom (BTC) experiences\ninfluenced one another in order to create a change in your professional or life practices. Key\ninsights also analyze topics or issues in order to demonstrate your ability to think critically and\nsee things from various perspectives.</p>\n",
+            "author": {
+                "name": "rengotap"
+            },
+            "tags": [
+                   "GLD"
+            ],
+            "date_published": "2024-01-23T15:46:34-05:00",
+            "date_modified": "2024-01-23T17:21:13-05:00"
+        },
+        {
+            "id": "https://rengotap.github.io/my-gld/",
+            "url": "https://rengotap.github.io/my-gld/",
+            "title": "My GLD",
+            "summary": "This is where information about the GLD would go. About Me. The About Me page is designed to give you&hellip;",
+            "content_html": "<p>This is where information about the GLD would go.</p>\n<p>About Me. The About Me page is designed to give you space to introduce yourself, your GLD\nPathway(s), your major(s), your professional goals, how your ePortfolio is organized and any\nother relevant information you may choose to share.</p>\n",
+            "author": {
+                "name": "rengotap"
+            },
+            "tags": [
+                   "GLD"
+            ],
+            "date_published": "2024-01-23T15:44:44-05:00",
+            "date_modified": "2024-01-23T17:24:01-05:00"
+        },
+        {
+            "id": "https://rengotap.github.io/about-me/",
+            "url": "https://rengotap.github.io/about-me/",
+            "title": "About Me",
+            "summary": "Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed&hellip;",
+            "content_html": "<p>Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed venenatis mauris. Maecenas imperdiet orci ut felis consequat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>\n",
+            "author": {
+                "name": "rengotap"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-23T15:37:22-05:00",
+            "date_modified": "2024-01-23T15:40:51-05:00"
+        },
+        {
+            "id": "https://rengotap.github.io/rengotap/",
+            "url": "https://rengotap.github.io/rengotap/",
             "title": "RENGOTAP",
             "summary": "Test post",
             "content_html": "<p>Test post</p>",
