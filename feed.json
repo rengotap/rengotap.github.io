@@ -5,7 +5,7 @@
     "home_page_url": "https://rengotap.github.io",
     "feed_url": "https://rengotap.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://rengotap.github.io/media/website/5bf267a0fd383e44e980b4a9237a7d6b.png",
+    "icon": "https://rengotap.github.io/media/website/Stage_1_module.webp",
     "author": {
         "name": "rengotap"
     },
@@ -73,7 +73,7 @@
         {
             "id": "https://rengotap.github.io/my-gld/",
             "url": "https://rengotap.github.io/my-gld/",
-            "title": "My GLD",
+            "title": "About Me",
             "summary": "This is where information about the GLD would go. About Me. The About Me page is designed to give you&hellip;",
             "content_html": "<p>This is where information about the GLD would go.</p>\n<p>About Me. The About Me page is designed to give you space to introduce yourself, your GLD\nPathway(s), your major(s), your professional goals, how your ePortfolio is organized and any\nother relevant information you may choose to share.</p>\n",
             "author": {
@@ -83,12 +83,12 @@
                    "GLD"
             ],
             "date_published": "2024-01-23T15:44:44-05:00",
-            "date_modified": "2024-01-23T17:24:01-05:00"
+            "date_modified": "2024-01-24T13:15:14-05:00"
         },
         {
             "id": "https://rengotap.github.io/about-me/",
             "url": "https://rengotap.github.io/about-me/",
-            "title": "About Me",
+            "title": "Profile",
             "summary": "Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed&hellip;",
             "content_html": "<p>Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed venenatis mauris. Maecenas imperdiet orci ut felis consequat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>\n",
             "author": {
@@ -97,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2024-01-23T15:37:22-05:00",
-            "date_modified": "2024-01-23T15:40:51-05:00"
+            "date_modified": "2024-01-24T13:15:07-05:00"
         },
         {
             "id": "https://rengotap.github.io/rengotap/",

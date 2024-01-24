@@ -3,7 +3,7 @@
     <title>rengotap</title>
     <link href="https://rengotap.github.io/feed.xml" rel="self" />
     <link href="https://rengotap.github.io" />
-    <updated>2024-01-23T17:24:01-05:00</updated>
+    <updated>2024-01-24T13:15:14-05:00</updated>
     <author>
         <name>rengotap</name>
     </author>
@@ -111,7 +111,7 @@ see things from various perspectives.</p>
         </content>
     </entry>
     <entry>
-        <title>My GLD</title>
+        <title>About Me</title>
         <author>
             <name>rengotap</name>
         </author>
@@ -119,7 +119,7 @@ see things from various perspectives.</p>
         <id>https://rengotap.github.io/my-gld/</id>
             <category term="GLD"/>
 
-        <updated>2024-01-23T17:24:01-05:00</updated>
+        <updated>2024-01-24T13:15:14-05:00</updated>
             <summary>
                 <![CDATA[
                     This is where information about the GLD would go. About Me. The About Me page is designed to give you&hellip;
@@ -136,14 +136,14 @@ other relevant information you may choose to share.</p>
         </content>
     </entry>
     <entry>
-        <title>About Me</title>
+        <title>Profile</title>
         <author>
             <name>rengotap</name>
         </author>
         <link href="https://rengotap.github.io/about-me/"/>
         <id>https://rengotap.github.io/about-me/</id>
 
-        <updated>2024-01-23T15:40:51-05:00</updated>
+        <updated>2024-01-24T13:15:07-05:00</updated>
             <summary>
                 <![CDATA[
                     Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed&hellip;
